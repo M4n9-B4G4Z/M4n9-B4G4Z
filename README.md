@@ -12,10 +12,7 @@
 ___
 ![My github stats](https://github-readme-stats.vercel.app/api?username=M4n9-B4G4Z&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4n9-B4G4Z&hide=css,html&theme=tokyonight)
-![My github stats](https://github-readme-stats.vercel.app/api?username=M4n9-B4G4Z&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4n9-B4G4Z&hide=css,html&theme=tokyonight)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=M4n9-B4G4Z&repo=M4n9-B4G4Z)](https://github.com/M4n9-B4G4Z/M4n9-B4G4Z)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=M4n9-B4G4Z&repo=M4n9-B4G4Z)](https://github.com/M4n9-B4G4Z/M4n9-B4G4Z)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=M4n9-B4G4Z&repo=M4n9-B4G4Z)](https://github.com/M4n9-B4G4Z/M4n9-B4G4Z/G4zBOTs-Project)
 <!--
 **MANG-BAGAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
