@@ -26,6 +26,6 @@ ___
 - 📫 Reach me via [whatsapp](https://wa.me/6281938781378) or [facebook](https://www.facebook.com/bagazstoreid/)
 
 
-[![🦉 My github stats](https://github-readme-stats.vercel.app/api?username=M4n9-B4G4Z&show_icons=true&hide_border=true&hide=issues)](https://github.com/XP-TN)
+[![🦉 My github stats](https://github-readme-stats.vercel.app/api?username=M4n9-B4G4Z&show_icons=true&hide_border=true&hide=issues)](https://github.com/M4n9-B4G4Z)
 
 
